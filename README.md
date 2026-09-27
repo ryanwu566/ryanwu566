@@ -1,12 +1,12 @@
 # Ryan Wu
 
-### Land Administration × GIS × AI × Decision Systems
+### Land & Spatial Systems × Engineering × AI × Decision Systems
 
 I build evidence-grounded systems for **spatial, property, and operational decision-making**.
 
-My work sits at the intersection of **geospatial technology, data integration, decision support, and applied AI**, with a focus on turning fragmented real-world data into transparent and usable decision workflows.
+My work sits at the intersection of **geospatial technology, data integration, engineering, decision support, and applied AI**. I am especially interested in turning fragmented real-world data into transparent, reviewable, and useful workflows rather than treating AI or analytics as isolated models.
 
-Currently exploring **Information Systems, Digital Transformation, Operations Analytics, Spatial Decision Support, and AI-assisted decision-making**.
+My current interests include **Information Systems, Digital Transformation, Operations Analytics, Spatial Decision Support, AI-assisted decision-making, and technology-enabled urban and property systems**.
 
 ---
 
@@ -16,7 +16,7 @@ Currently exploring **Information Systems, Digital Transformation, Operations An
 
 An evidence-grounded property decision-support system for Taiwan, integrating **GIS, market and valuation evidence, affordability, terrain and disaster-risk data, taxation, and property research workflows**.
 
-The system combines a **Next.js frontend, FastAPI backend, PostgreSQL persistence, public-data pipelines, geospatial providers, and automated validation**, with explicit boundaries between available, partial, unavailable, and non-authoritative evidence.
+The system combines a **Next.js frontend, FastAPI backend, PostgreSQL persistence, public-data pipelines, geospatial providers, and automated validation**, while preserving explicit boundaries between available, partial, unavailable, and non-authoritative evidence.
 
 **Highlights:** Next.js · FastAPI · PostgreSQL · GIS · public-data integration · Cloud Run · Vercel · Playwright · Pytest
 
@@ -28,9 +28,9 @@ The system combines a **Next.js frontend, FastAPI backend, PostgreSQL persistenc
 
 An auditable workflow for reviewing real-estate valuation cases, designed around **structured evidence, GIS context, reproducible review logic, and human oversight**.
 
-The project explores how AI-assisted review can support professional workflows without replacing traceability, source evidence, or human judgment.
+The project explores how AI-assisted review can support professional workflows without replacing traceability, source evidence, deterministic rules, or human judgment.
 
-**Focus:** explainability · review traceability · geospatial evidence · decision support
+**Focus:** explainability · review traceability · geospatial evidence · human-in-the-loop decision support
 
 [Repository](https://github.com/ryanwu566/auditable-valuation-review)
 
@@ -40,30 +40,33 @@ The project explores how AI-assisted review can support professional workflows w
 
 A multilingual portfolio and content-management system built with **Next.js, TypeScript, Supabase, authentication, structured content, document workflows, and production deployment**.
 
-It provides a practical full-stack environment for managing projects, academic work, certificates, activities, files, and multilingual public content.
+It provides a full-stack environment for managing academic work, projects, certificates, activities, files, and multilingual public content.
 
 **Highlights:** Next.js · TypeScript · Supabase · PostgreSQL · Auth · CMS design · multilingual UX · Vercel
 
-[Repository](https://github.com/ryanwu566/personal-portfolio-cms)
+[Repository](https://github.com/ryanwu566/personal-portfolio-cms) · [Live Site](https://personal-portfolio-cms-chi.vercel.app/)
 
 ---
 
 ## Current Focus
 
-- **Spatial Decision Support** — GIS, geospatial evidence, property and urban systems
+- **Spatial Decision Support** — GIS, geospatial evidence, property, land, and urban systems
 - **Information Systems & Digital Transformation** — connecting fragmented data, processes, and decision workflows
-- **Operations & Analytics** — decision support, process design, forecasting, and data-driven operations
+- **Operations & Analytics** — process design, forecasting, decision support, and data-driven operations
 - **Applied AI** — human-AI workflows with explicit evidence, uncertainty, and review boundaries
+- **Engineering Integration** — connecting software, spatial data, physical systems, and real operational problems
 
 ---
 
-## Background
+## Academic Background
 
-I study **Land Administration at National Chengchi University (NCCU)**, combining domain knowledge in land, property, and spatial systems with software engineering and data analysis.
+I study in the **Department of Land Economics at National Chengchi University (NCCU)**, with a focus on land, property, spatial systems, and data-driven decision-making.
 
-My project and research experience includes **GIS, Python, public-data integration, spatial analysis, decision-support systems, and full-stack product development**.
+Alongside my main field, I am pursuing a **minor in Power Mechanical Engineering at National Tsing Hua University (NTHU)**. This engineering background broadens how I approach problems involving physical systems, sensing, operations, infrastructure, and technology integration.
 
-I am particularly interested in systems that connect technical implementation with real operational decisions rather than treating AI or analytics as isolated models.
+My academic and project experience includes **GIS, Python, spatial analysis, public-data integration, decision-support systems, research assistance, full-stack development, and engineering-oriented project work**.
+
+This combination of land and spatial knowledge with engineering and information systems shapes the kind of problems I want to work on: problems where software must interact with **real environments, physical constraints, heterogeneous data, and human decisions**.
 
 ---
 
@@ -73,7 +76,21 @@ I prefer systems where:
 
 **evidence stays traceable · uncertainty stays visible · deterministic logic is separated from explanation · external data sources retain their authority boundaries · human judgment remains part of consequential decisions**
 
-This approach shapes much of my work in PropTech, GIS, data integration, and AI-assisted decision support.
+This approach shapes much of my work in PropTech, GIS, analytics, and AI-assisted decision support.
+
+I am less interested in adding AI for its own sake than in understanding **where automation actually improves a workflow, where deterministic methods are more appropriate, and where a person still needs to make the final judgment**.
+
+---
+
+## GIS, Field Observation & Aerial Imaging
+
+My interest in spatial systems also extends beyond software.
+
+I use **drone aerial imaging** to observe landscapes, infrastructure, settlements, and the built environment from a different spatial perspective. Working with aerial imagery reinforces the connection between GIS data, maps, physical geography, engineering environments, and what actually exists on the ground.
+
+I also document aerial views and places around Taiwan on YouTube.
+
+[YouTube — Beauty of Taiwan](https://youtube.com/@beautyoftaiwan566?si=5sNOTPCXk1mINiUB)
 
 ---
 
@@ -86,19 +103,36 @@ Python · TypeScript · JavaScript · SQL · PostgreSQL
 FastAPI · Next.js · React · Supabase · REST APIs
 
 **Spatial & Data Systems**  
-GIS · GeoJSON · spatial analysis · public-data pipelines · geospatial APIs
+GIS · GeoJSON · spatial analysis · public-data pipelines · geospatial APIs · remote-sensing references
 
 **Infrastructure & Quality**  
 Docker · Google Cloud Run · Vercel · GitHub Actions · Pytest · Playwright
+
+**Engineering & Field Interests**  
+Power & mechanical systems · sensing · UAV / drone imaging · spatial observation · physical-digital integration
 
 ---
 
 ## Interests
 
-Information Systems · Digital Transformation · Decision Support Systems · GIS · Spatial Analytics · Operations Analytics · Supply Chain & Operations · AI for Business · Human-AI Decision Workflows
+Information Systems · Digital Transformation · Decision Support Systems · GIS · Spatial Analytics · Operations Analytics · Supply Chain & Operations · AI for Business · Human-AI Decision Workflows · Urban Technology · PropTech · Engineering Systems
+
+---
+
+## What I Am Exploring
+
+I am particularly interested in questions such as:
+
+- How can heterogeneous public and private data be turned into usable decision evidence?
+- How should AI systems communicate uncertainty instead of hiding it?
+- How can spatial information improve operational and strategic decisions?
+- How can digital systems connect software, physical infrastructure, and real-world workflows?
+- Where should automation stop and human confirmation begin?
 
 ---
 
 ## Connect
 
-[LinkedIn](www.linkedin.com/in/yi-yang-wu0a6492378) · [Youtube](https://youtube.com/@beautyoftaiwan566?si=5sNOTPCXk1mINiUB) 
+[LinkedIn](https://www.linkedin.com/in/yi-yang-wu0a6492378) ·
+[Portfolio](https://personal-portfolio-cms-chi.vercel.app/) ·
+[YouTube](https://youtube.com/@beautyoftaiwan566?si=5sNOTPCXk1mINiUB)
