@@ -12,6 +12,18 @@ My current interests include **Information Systems, Digital Transformation, Oper
 
 ## Featured Projects
 
+### [SeaWatch — Explainable Maritime Anomaly Detection](https://github.com/ryanwu566/seawatch)
+
+A maritime situational-awareness and decision-support system that combines **vessel-behavior anomaly detection, geospatial context, historical traffic evidence, machine-learning second opinions, and human analyst review**.
+
+SeaWatch detects behaviors such as **AIS gaps, loitering, rendezvous, route deviation, position jumps, and identity conflicts**, then presents explainable evidence rather than an autonomous threat verdict. The system also integrates **historical vessel-presence context, EEZ / territorial-sea reference layers, live-provider architecture, and analyst-facing review workflows**.
+
+**Highlights:** Python · FastAPI · React · TypeScript · MapLibre · GIS · scikit-learn · anomaly detection · historical maritime data · explainable AI · human-in-the-loop review
+
+[Repository](https://github.com/ryanwu566/seawatch) · [Integrated Demo](https://seawatch-web.vercel.app/) · [Detection Demo](https://seawatch-demo.vercel.app/?clean=1)
+
+---
+
 ### [PropTech AI Copilot](https://github.com/ryanwu566/proptech-ai-copilot)
 
 An evidence-grounded property decision-support system for Taiwan, integrating **GIS, market and valuation evidence, affordability, terrain and disaster-risk data, taxation, and property research workflows**.
